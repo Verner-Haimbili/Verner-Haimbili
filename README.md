@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://vernerhaimbili.wordpress.com](https://vernerhaimbili.wordpress.com)
 
-- 💬 Ask me about **Java, C#, HTML**
+- 💬 Ask me about **Java, C#, HTML, CSS**
 
 - 📫 How to reach me **wernerhaimbili@gmail.com**
 
