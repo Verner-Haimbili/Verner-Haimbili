@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=verner-haimbili&label=Profile%20views&color=0e75b6&style=flat" alt="verner-haimbili" /> </p>
 
-- 🌱 I’m currently learning **Python, C, C++**
+- 🌱 I’m currently learning **Python, C, C++, and Unity**
 
 - 📝 I regularly write articles on [https://vernerhaimbili.wordpress.com](https://vernerhaimbili.wordpress.com)
 
-- 💬 Ask me about **Java, Javascript, C#, HTML, CSS, SQL, SSMS**
+- 💬 Ask me about **Java, Javascript, TypeScript, C#, HTML, CSS, Tailwinds CC, SQL, SSMS, **
 
 - 📫 How to reach me **wernerhaimbili@gmail.com**
 
