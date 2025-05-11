@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://vernerhaimbili.wordpress.com](https://vernerhaimbili.wordpress.com)
 
-- 💬 Ask me about **Java, Javascript, TypeScript, C#, HTML, CSS, Tailwinds CC, SQL, SSMS, **
+- 💬 Ask me about **Java, JavaScript, TypeScript, C#, HTML, CSS, Tailwinds CSS, SQL, SSMS**
 
 - 📫 How to reach me **wernerhaimbili@gmail.com**
 
